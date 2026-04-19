@@ -4,6 +4,8 @@ This repository contains the code developed for my Master’s thesis:
 **“A Study on Sentence-Level Argument Identification in Imbalanced Student Essay Corpora”**  
 *Florida Atlantic University, 2025*  
 
+<img width="905" height="625" alt="msthesis" src="https://github.com/user-attachments/assets/b703e3c3-1266-44c5-b85b-d15947a7d19f" />
+
 ---
 
 ## Project Overview  
